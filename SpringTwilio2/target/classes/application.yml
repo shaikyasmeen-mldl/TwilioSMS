@@ -1,0 +1,8 @@
+server:
+  port: 8083
+twilio:
+  account_sid: ACCOUNTSID
+  auth_token: AUTHTOKEN
+  from_number: "+1111111111111"
+ 
+  
